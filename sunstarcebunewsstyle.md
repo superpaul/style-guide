@@ -1704,3 +1704,90 @@ Succeeding references are set in lower case, except when referring to the second
 
 **videotape** 
 
+###W###
+
+**war**
+
+Capitalize when used as part of the name of a specific conflict – World War II, the Gulf War, etc.
+
+**waste water** (but **freshwater**, **seawater**)
+
+**well-being**
+
+**well-to-do**
+
+**well wishers**
+
+**whereabouts**
+
+Takes a singular verb
+
+**white-collar** (adjective)
+
+**whitewash** (noun, verb, adjective)
+
+**who**, **whom**
+
+Use for references to human beings and animals with a name. Use that and which for inanimate objects and animals without names.
+
+When someone is the subject of a sentence, clause or phrase, use who. Who corresponds to he, she, they.
+
+**Example**: The woman *who* rented the room left the window open. *Who* is there?
+
+Use whom when someone is the object of a verb or preposition. Whom corresponds to him, her, them.
+
+**Example**: The woman to *whom* the room was rented left the window open. *Whom* do you wish to see?
+
+**Who’s**, **whose**
+
+*Who’s* is a contraction for who is, not a possessive. *Whose* is the possessive. I do not know whose bag that is.
+
+**wide-**
+
+Is usually hyphenated – *wide*-angle, *wide*-eyed, *wide*-awake. Exception: *wide*spread.
+
+**-wide**
+
+Is not hyphenated – city*wide*, country*wide*, nation*wide*, world*wide*, industry*wide*.
+
+**wildlife**
+
+**wind-swept**
+
+**wind up** (verb), **windup** (noun and adjective)
+
+**-wise**
+
+No hyphen when it means in the direction of or with regard to – clockwise, otherwise, lengthwise.
+
+**women**
+
+Should receive the same treatment as men in all areas of coverage. (Still to be drafted: Section on gender-sensitive language.)
+
+**word-of-mouth**
+
+**workday**
+
+**work force**
+
+**working class** (noun), **working-class** (adjective)
+
+**workout**
+
+**worn-out**
+
+###X, Y, Z###
+
+**Xerox**
+
+A trademark for a brand of photocopy machine. If you need a verb, use a generic term such as *photocopy*.
+
+**x-ray** (noun, verb and adjective)
+
+**year-end** (adjective)
+
+**youth**
+
+Applies to boys and girls aged 13 to 18. Use man or woman for those older.
+
+**zero**, **zeros**
