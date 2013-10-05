@@ -376,6 +376,8 @@ Avoid. Unlike assert or say, this carries a connotation of untruth.
 
 A collective noun which should not be used with a number.
 
+**cloud computing** A type of utility computing done over the Internet. Think of it as like an electricity service -- instead of running your own generators, you connect to and pay a utility company like Veco. In cloud computing, you pay a company like Amazon to run web services instead of you running your own server.
+
 **cloak-and-dagger**
 
 **cohort**
