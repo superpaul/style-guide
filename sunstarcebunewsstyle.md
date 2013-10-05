@@ -1432,3 +1432,275 @@ Use these only with wars and to establish sequence for people. Use Arabic numera
 
 **rush hour** (noun), **rush-hour** (adjective)
 
+###O###
+
+**savior, not saviour**
+
+**scheme**
+
+Is not a synonym for plan or project.
+
+**scissors**
+
+Take plural verb and pronouns.
+
+**Example:** The *scissors* are in my bag. Leave them there.
+
+**scuba**
+
+Lowercased acronym for self-contained underwater breathing apparatus.
+
+**second guess** (noun), **second-guess** (verb)
+
+**second hand** (noun) **secondhand** (adjective and adverb)
+
+**secretary**
+
+Capitalize before a full name only if it is a formal organizational title. Do not abbreviate.
+
+**Self-**
+
+Always hyphenate: *self*-assured, *self*-confident, *self*-defense
+
+**sell-out** (verb), **sellout** (noun)
+
+**Senate**
+
+Capitalize all specific references to legislative bodies, regardless of whether the name of the nation is used.
+
+**Senator**, **Sen.**
+
+Capitalize and abbreviate when used as a formal title before the full name. Spell out second references with surnames only.
+
+**Examples**: **Sen.** Marcelo Fernan, **Senator** Herrera
+
+**senatorial**
+
+Always lowercase
+
+**send off** (verb), **send-off** (noun)
+
+**set up** (verb), **setup** (noun, adjective)
+
+**sexism**
+
+**shake up** (verb), **shake-up** (noun, adjective)
+
+**shall**, **will**
+
+Use shall to express determination. Either shall or will may be used for first-person constructions, but use will in second-and third-person contructions.
+
+**shape up** (verb), **shape-up** (adjective)
+
+**should**, **would**
+
+Use *should* to express an obligation, and *would* to express a customary action.
+
+Examples: You *should* practice harder. In the summer, she *would* row every afternoon.
+
+Also, use *would* for a conditional past tense construction.
+
+Example: If you had not lost last Sunday, you *would* have to fight a tough opponent.
+
+**show off** (verb), **showoff** (noun)
+
+**shut down** (verb), **shutdown** (noun)
+
+**shut off** (verb), **shut-off** (noun)
+
+**shut out** (verb), **shutout** (noun)
+
+**slang**
+
+In general, avoid slang unless you need it to add color to a direct quote.
+
+**slowdown**
+
+**smash up** (verb), **smashup** (noun and adjective)
+
+**so called** (adverb), **so-called** (adjective)
+
+**soft-spoken**
+
+**Speaker**
+
+Capitalize only as formal title before the name of the House speaker, such as *Speaker* Jose de Venecia.
+
+**spokesman**, **spokeswoman**
+
+If the individual’s gender is unknown, use representative.
+
+**stand off** (verb), **standoff** (noun, adjective)
+
+**stand out** (verb), **standout** (noun, adjective)
+
+**State of the Nation Address**
+
+Do not hyphenate and avoid using the acronymn Sona. In succeeding references, use “the President, in his speech” or simply “the President said…”
+
+**stopgap**
+
+**street**
+
+Set in lowercase and abbreviate when citing a specific street. Spell out other uses.
+
+**Examples:** F. Ramos *st.* The *street* is muddy.
+
+**streetchild**, **streetchildren**
+
+Some quarters have suggested using “children in extremely difficult circumstances” but Sun.Star Cebu opts for the more specific, shorter terms *streetchild* and *streetchildren*.
+
+**strong-arm** (verb, adjective)
+
+**sub-**
+
+In general, no hyphen is needed
+
+**Examples**: *sub*committee, *sub*culture, *sub*division, *sub*machine gun, *sub*total
+
+**subpoena**, **subpoenaed**
+
+**super-**
+
+Don’t use a hyphen unless the word that follows is capitalized.
+
+**Examples:** *super*carrier, *super*power, *super*highway
+
+**superintendent**
+
+Capitalize and abbreviate when used as a formal title before a person’s full name, whether as a police or school title. Spell out in succeeding references with only the person’s surname.
+
+**Examples:** Schools Supt. Carolino Mordeno
+
+Chief Supt. Ramsey Ocampo
+
+Sr. Supt. Jose Ayap
+
+Superitendent Mordeno
+
+Chief Superintendent Ocampo
+
+Avoid using military titles in lieu of police titles, as the PNP is a civilian institution. So, use superintendent instead of colonel, chief inspector instead of major, and so on.
+
+**Supreme Court**
+
+###T###
+
+**take off** (verb), **takeoff** (noun, adjective)
+
+**take up** (verb), **takeup** (noun, adjective)
+
+**take out** (verb), **takeout** (noun, adjective)
+
+**take over** (verb), **takeover** (noun)
+
+**telecast** (noun), **televise** (verb)
+
+**that**
+
+Use the conjunction that to introduce a dependent clause if the sentences sounds or looks awkward without it. In general, use that.
+
+1) When A time element intervenes between the verb and the dependent clause.
+
+**Example**: The senator said Monday *that* the president had signed the bill.
+
+2) Before subordinate clauses beginning with conjunctions such as after, although, because, before, in addition to, until and while.
+
+Example: He said *that* after he learned of the president’s plan, he decided to resign.
+
+**tie in** (verb), **tie-in** (noun, adjective)
+
+**tie up** (verb), **tie-up** (noun, adjective)
+
+**titles**
+
+**totaled**, **totaling**
+
+**toward**, **not towards**
+
+**town council**
+
+Lowercase.
+
+**trade off** (verb), **trade-off** (noun, adjective)
+
+**trans-**
+
+Hyphens are not needed unless the prefix is followed by a capitalized word.
+
+**Examples**: *trans*continental, *trans*shipment, *trans*-Atlantic 
+
+**travel**, **traveled**, **traveling**, **traveler**
+
+**trigger-happy**
+
+**try out** (verb), **tryout** (noun)
+
+**t-shirt**
+
+**tune up** (verb), **tuneup** (noun, adjective)
+
+**typhoons**
+
+Lowercase even when used as part of the name that weather forecasters assign to a storm. Use the pronouns it and its, not she.
+
+###U###
+
+**UN (United Nations)** and **US (United States)**
+
+**undersecretary**
+
+Capitalize when used as a formal title before a full name.
+
+**Under way**, **underway**
+
+Two words in nearly all uses, except as an adjective in a nautical sense.
+
+**Example**: The project is *under way*. They’re putting together an *underway* flotilla.
+
+**unique**
+
+One of a kind. Don’t describe something as rather unique or most unique.
+
+**up-**
+
+In general, don’t use a hyphen.
+
+Examples: *upgrade*, *uptown*
+
+**-up**
+
+As verbs, use two words. As nouns or adjectives, hyphenate.
+
+**Examples**: break up, breakup, mix up, mixup, line up, lineup, walk up, walkup
+
+**upside down** (adverb), **upside-down** (adjective)
+
+**u-turn** (noun and adjective)
+
+###V###
+
+**Vatican City**
+
+**venereal disease**
+
+VD is acceptable on second reference.
+
+**vernacular**
+
+Italicize vernacular terms or quotations, if these are necessary or add color to the story. Then, provide an English translation, enclosed in parentheses, after the paragraph.
+
+Example: “*Wa siya malipong?*” he said when told of the mayor’s proposal. (Is he in his right mind?)
+
+**vice mayor**, **vice governor**, **vice admiral**
+
+**vice president**
+
+Spell out and capitalize when used as a formal title before a full name.
+
+Succeeding references are set in lower case, except when referring to the second highest official of the government.
+
+**vice versa**
+
+**videotape** 
+
