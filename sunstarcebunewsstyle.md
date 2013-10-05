@@ -16,30 +16,36 @@ Not: Last p.m. the police asked for the no. of the suspect's room.
 4) Do not abbreviate:
 
 president, vice president, secretary, treasurer, assistant secretary, assistant treasurer, auditor, director, solicitor general, ambassador, consul, general, minister, mayor, vice mayor, councilor
+
 5) Do not use the abbreviations Atty., Engr. and Arch. before a person's name.
 If it is necessary to mention a person's profession in a story, say:
 
-lawyer Amadeo Seno
+*lawyer* Amadeo Seno
 
-Mel Libre, a lawyer,
+Mel Libre, a *lawyer*,
 
-architect Melva Java
+*architect* Melva Java
 
-Jose Troyo, an engineer,
+Jose Troyo, an *engineer*,
 
 6) Abbreviate junior or senior after a person's name.
 
 Apolonio Abines Jr. or Jesus Garcia Sr.
+
 7) Abbreviate ecclesiastical titles:
+
 Rev., Fr., Bro., Msgr. Rt. Rev.
+
 Don't abbreviate Cardinal, Papal Nuncio, Archbishop and Bishop.
 
 8) Military titles - Airman, commodore and ensign have no abbreviations.
+
 When only the surname follows, however, spell out the full title.
 
 9) Abbreviate Saint, Santo, Santa, Fort and Mount.
 
 10) Abbreviate certain months with a specific date:
+
 Jan. 1, Feb. 2, Aug. 3, Sept. 4, Oct. 5, Nov. 6, Dec. 7 but not: March, April, May, July Do not abbreviate any month standing alone or with a year alone.
 
 11) Abbreviate company, corporation, incorporated, limited, or brothers at the end of the name of a business enterprise.
