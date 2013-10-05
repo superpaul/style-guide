@@ -1027,3 +1027,164 @@ See entry on assassin, killer, murderer.
 
 **Kudos**
 
+###L###
+
+**Lamebrain**
+
+**Lame duck** (noun), **lame-duck** (adjective)
+
+**Laws**
+
+Capitalize formal titles of legislative acts, but not bills.
+
+**Examples**: the Urban Housing and Development Act, the Fishery Code, the Anti-Graft and Corrupt Practices Act, the rape bill, the law against illegal possession of firearms and ammunition.
+
+**lawyer**
+
+A generic term for all members of the bar
+
+**left hand** (noun) **left-handed** (adjective)
+
+**legislative titles**
+
+Capitalize the House, Senate, Congress, Upper House, but use lowercase for legislature.
+
+**Lent**
+
+The period from Ash Wednesday to Holy Saturday, and is followed by Easter.
+
+**Let up** (verb), **letup** (noun and adjective)
+
+**liaison**
+
+**life-size**
+
+**lift off** (verb), **liftoff** (noun and adjective)
+
+**light**, **lighted**, **lighting**
+
+Don’t use *lit* as past tense
+
+**Like**, **as**
+
+Use like as a preposition to compare nouns or pronouns. This requires an object. However, use as to introduce clauses.
+
+So: She sings *like* a pro.
+
+He hits the high notes *as* he should.
+
+**linchpin**
+
+Something that holds together the elements of a situation.
+
+**local**
+
+Use sparingly.
+
+**Unnecessary**: The victims were taken to *local* hospital.
+
+**long term**, **long-term**
+
+Hyphenate when used as a compound modifier.
+
+Example: We will overcome in the **long term**. She has a **long-term** plan.
+
+**long time**, **longtime**
+
+They have known each other a **long time**. They are **longtime** partners.
+
+###M###
+
+**magazine names**
+
+Capitalize but don’t place in quotes.
+
+**mailman**
+
+The preferred term is *letter carrier*.
+
+**make up** (verb), **makeup** (noun, adjective)
+
+**maintain**
+
+To maintain means to continue or persevere in, and to affirm, as if in an argument. If *said* is what you mean, ***use said***.
+
+**manager**
+
+Capitalize when used as a formal title before a name, but not when used as a job description or is appositives.
+
+PEA General *Manager* Amado Lagdameo
+
+Juan Santos, the team *manager*, said …
+
+*marketplace*
+
+*medicine*
+
+Do not add an s to form the plural.
+
+*memo*, *memos*
+
+*memento*, *mementos*
+
+*memorandum*, *memorandums*
+
+*mid-*
+
+A hyphen isn’t needed unless a capitalized word follows.
+
+So: *mid*year, *mid*-Atlantic, *mid*term
+
+**middle initials**
+
+Middle initials are encouraged to help identify a specific individual, but may be dropped if a person does not use one or is publicly identifiable without it.
+
+**mishap**
+
+People are not killed in *mishaps*.
+
+**mop up** (verb) **mop-up** (noun, adjective)
+
+**Muslim**, not **Moslem**
+
+###N###
+
+**National anthem**
+
+Lowercase, except when using specific titles.
+
+So: He led in the singing of the *national anthem*, “Lupang Hinirang”
+nationwide
+
+**Navy**
+
+Capitalize when referring to the Philippine fleet, but not when referring to other nations.
+
+**Example**: the *Navy* commander, the US *navy*
+
+**nicknames**
+
+Use a nickname only if it helps the reader identify the person more easily. Use quotation marks when a nickname is used as part of the individual’s identification.
+
+**Example:** Rogelio “Jingjing” Osmeña Sr.
+
+Emilio “Lito” Osmeña
+
+John Henry “Sonny” Osmeña
+
+nighttime
+
+**no.**
+
+Avoid using this abbreviation for number. Find a better way of showing rank or position, or to identify a specific measure. Don’t use in addresses as well.
+
+**Examples:** Resolution 909, not Resolution No. 909
+
+Circular 96-3, not Circular No. 96-3
+
+**Non-**
+
+In general, no hyphen is needed, except before proper nouns or in awkward combinations.
+
+**Examples:** *non*aligned nations, *non*stick, *non*-Christian
+
