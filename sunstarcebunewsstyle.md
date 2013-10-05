@@ -255,3 +255,356 @@ For end lines or taglines:
 JKV, MTL, IDA, MPS, LAP 
 
 But(AFP), (AP), (PNA), (Sunnex), (Sun.Star Baguio)
+
+
+###C###
+
+**Cabinet**
+
+Capitalize when referring to the executive branch of government.
+Example: Members of the Cabinet narrowly escaped harm when their plane had to belly-land yesterday in Cavite.
+
+**Cancel** (to do away with), **postpone** (to defer or reschedule)
+
+When using postpone, do not add "to a later date."
+
+**capital**, **capitol**
+
+A capital is a city which is also the seat of government. So: Roxas city is the capital of Capiz province.
+
+A capitol is a building. Capitalize when referring to the Provincial Government. So: The Capitol plans to recover some land.
+
+**Capitalization**
+
+1) Capitalize proper nouns and official titles which precede names in text.
+
+In headlines, capitalize only the first letter of the first word, aside from the proper nouns.
+
+2) Use lowercase for the names of legislative committees; the Senate blue ribbon committee, the House committee on justice and human rights.
+
+3) Lower case city, province and government when used as generic terms, but capitalize them when referring to a specific unit.
+
+Cebu city residents cannot vote for officials of the Province, but are of course included in elections for National Government positions.
+
+The government cannot prohibit the entry of persons with HIV.
+
+4) Capitalize proper nouns referring to the divinity and religious groups or sects, except in generic references.
+
+So: God, Allah, Yahweh, Muslims, Roman Catholics
+
+But: a Greek god, pagan goddesses
+
+5) Use lower case when refering to everyday rites or ceremonies such as the mass, last rites, baptism.
+
+But capitalize religious holidays such as Christmas, Lent, Holy Week, Easter, Ramadan.
+
+6) The word following a colon is capitalized in headlines. In text, the word following a colon is capitalized only if it belongs to a complete sentence.
+
+Right: She had many skills: dancing, singing, painting.
+
+Right: Her worry: She had far too many things to do.
+
+**Captions or cutlines**
+
+a) Whenever possible, identify all persons in a photo.
+
+b) Captions assume that the action took place yesterday and are set in the present tense unless some other specific time in the past is mentioned.
+
+c) Captions identifying more than two persons use the form from left, not from left to right.
+
+d) When a photo is old, generally a year or more, specify when it was taken, especially if the subject's appearance is known to have changed since the photo was taken.
+
+e) Avoid the term looks on. There's no need to state the obvious. Besides, people usually watch or listen; they don't just look on.
+
+**carat**, **karat**
+
+A carat is a unit of weight for precious stones, while karat is a measure of gold content.
+
+**carnapping**
+
+**carry over** (verb), **carry-over** (noun, adjective)
+
+**catch-up**
+
+Hyphenate the noun and adjective, but not the verb.
+
+**cave in** (verb), **cave-in** (noun)
+
+**Cebu City**, **Cebu Province**
+
+We use capital letters when referring to both the local government and the geographical unit.
+
+The City will donate canned goods to some poverty-stricken parts of Ormoc City. The province has many areas which can be developed, and the Province has hired an independent expert to point these areas out.
+
+**Cebu City Prosecutor's Office**
+
+Capitalize all formal titles used in this office when paired with full names; Cebu City Prosecutor Jufelinito Pareja, Assistant City Prosecutor Salvador Solima.
+
+**celebrant**, **celebrator**
+
+A celebrant is one who performs a religious rite, while a celebrator is one having a good time or marking his or her birthday.
+
+**center**
+
+As a verb, center is followed by on, not around.
+
+**chairman**, **chairperson**
+
+When referring to a specific male, use chairman. But use chairperson or chairwoman when referring to a woman. It's silly to refer to a man as chairperson.
+
+**character**, **reputation**
+
+Character refers to moral qualities, while reputation refers to the way a person is regarded by others.
+
+**check up** (verb), **checkup** (noun)
+
+**City Hall**
+
+Capitalize when used as a synonym for the City Government, but lowercase general references.
+
+Build a new city hall; the meeting will be held at the City Hall.
+
+**claim**
+
+Avoid. Unlike assert or say, this carries a connotation of untruth.
+
+**clean up** (verb), **cleanup** (noun, adjective)
+
+**clear-cut** (adjective)
+
+**clergy**
+
+A collective noun which should not be used with a number.
+
+**cloak-and-dagger**
+
+**cohort**
+
+A cohort is a group, not an individual. It should not be used as a synonym for companion or colleague.
+
+**collective nouns**
+
+a) Most are considered singular, even if they signify more than one person: crew, team, audience, family.
+
+b) Some collective nouns which are considered plural take plural verbs: police, personnel.
+
+c) In neither group can individual members be quantified. Don't write three crew (members), six police (officers), five (members of the) clergy or 13 Army personnel.
+
+**collide**, **collision**
+
+Two moving objects collide. A car does not collide with a house.
+
+**colons**
+
+1) Use a colon to introduce lists, tabulations, texts.
+
+She recommended four measures:...
+
+2) Use a colon whenever a direct quotation contains two or more sentences, and whenever a quotation is preceded by a full sentence. Use a comma before a single-sentence quotation.
+
+The mayor said, "We will close the erring shops tomorrow."
+
+The mayor put it this way: "We will close the erring shops tomorrow."
+
+3) A verb before a colon is unnecessary.
+
+Right - The presentations: ...
+
+Wrong - The presentations were: ...
+
+**commas**
+
+1) Use a comma to separate words and simple phrases in a series, but not before the conjunction.
+
+red, white, green and blue
+
+she danced, sang and talked the night away.
+
+2) You need a comma to set off words in apposition u the words that are identifiers. If an apposition is eliminated, the sentence will still be grammatically correct.
+
+The painter, Juan Gomez, drew critical acclaim.
+
+3) use a comma to introduce a one-sentence direct quote, but not before indirect quotes.
+
+She said, "I hope you'll enjoy your meal."
+
+She said she was sorry to be late.
+
+4) Use a comma to end a quote that normally would end in a period. You don't need a comma for quotes that end in an exalamation point, question mark or ellipsis.
+
+"That's a stupid proposal," he said.
+
+"I think you're right," she added.
+
+5) use a comma to separate two independent clauses that are joined by a conjunction.
+
+She bought the ingredients, and he thanked her for staying within their budget.
+
+6) use a comma to set off figures in apposition: The score, 19 - 6, astonished viewers of the Velasco-Bujilov match.
+
+7) Use a comma to indicate the omission of a word or words: She was a winner from the start; he, a loser.
+
+8) You need a comma for numbers higher than 999, but not in addresses, phone numbers or serial numbers.
+
+9) Use a comma after the day and year in precise dates, but not when only the month and day or the month and year are used.
+
+So - Nov. 15, 1972, but in November 1972.
+
+10) use a comma before designations of academic or professional degrees and religious orders, but not before Jr., Sr., Ltd., Inc. and Roman numerals after names.
+
+11) You generally won't need a comma before or after too.
+
+12) Commas should not be used around restrictive clauses and phrases. A clause is restrictive if its omission would alter the meaning of the sentence.
+
+Right - Editors who mangle stories need to be reprimanded. Wrong - Businessmen, who fail to pay taxes, should be jailed.
+
+**Compare to**, **compare with**
+
+Compare to stresses similarities; compare with stresses differences.
+
+**Compliment**, **complement**
+
+To compliment is to praise; to complement is to complete or enhance.
+
+**Compound words**
+
+1) When the compound noun precedes a noun, use a hyphen between an adjective and a noun, between an adjective and an adverb, between a noun and an adjective or participle and between a verb and a preposition.
+
+Examples: a first-rate play, large-scale project, far-reaching legislation, record-breaking feat
+
+2) If a modifier preceding a noun contains several words, all must be hyphenated except when the noun phrase is capitalized.
+
+too-good-to-be-true bonus
+
+large-than-life cartoon character
+
+You will notice, however, that these modifiers are awkward and can thus be rephrased.
+
+Better - She thought the bonus was too good to be true.
+
+3) Do not hyphenate a compound in which the first element is an adverb ending in ly: a completely inept performance, her eagerly awaited visit.
+
+**comprise**
+
+Means contain or consist of. The whole comprises the parts, so write: The alphabet comprises 26 letters. Don't write: The alphabet is comprised of 26 letters.
+
+**condominium**
+
+This refers to a form of property ownership, not a type of structure. An apartment or townhouse may or may not be a condominium.
+
+**congressman**, **congresswoman**
+
+These are not titles and should not be capitalized. Only the correct titles, Representative or Senator, can be used for abbreviations.
+
+**convince**, **persuade**
+
+Convince takes of or that, while persuade takes the infinitive to.
+
+**cop**
+
+This is a derogatory term for police officer and should be confined to heads, which require brevity, or direct quotes.
+
+**cop out** (verb), **cop-out** (noun)
+
+**corporation**
+
+This is spelled out and set in lower case upon second or third reference, or as when used as a generic noun. But when used as part of a name, it is capitalized and abbreviated.
+
+The corporation is allowed ...
+
+The General Milling Corp. ...
+
+**countdown**
+
+**courtroom**
+
+**cover up** (verb), **cover-up** (noun, adjective)
+
+**crack up** (verb), **crack-up** (noun, adjective)
+
+**cross-examine**
+
+**cross fire**
+
+**cross over** (verb), **crossover** (noun, adjective)
+
+**currently**
+
+Use *now*. Better yes, *don't use either*.
+
+**cut back** (verb), **cutback** (noun, adjective)
+
+**cut off** (verb), **cutoff** (noun, adjective)
+
+###D###
+
+**damage**, **damages**
+
+The first means destruction, the second means compensation awarded by the court.
+
+Also, damage is always partial. Destroyed is more accurate than totally damaged, in the same way that damaged is a better term than partially destroyed.
+
+**dangling modifiers**
+
+Make sure each modifier refers clearly to a word in the sentence.
+
+Dangling: Worn on a chain, I showed the pendant off to my friends. Better: Worn on a chain, the pendant drew many admiring looks.
+
+**data**
+
+A plural noun which usually requires plural verbs or pronouns, except when used as a collective noun.
+
+**datelines**
+
+When using foreign wires, set the dateline in capitals. When stories are merged, however, use only the dateline of your lead, and mention the other locations in transition.
+
+**day-to-day**
+
+**dead end** (noun), **dead-end** (adjective)
+
+**dean**
+
+Capitalize when used as a formal title before a name.
+
+**destroy**
+
+All destruction is total, so there's no need to place totally before destroyed.
+
+**dialog**
+
+Both dialogue and dialog are correct, but Sun.Star will opt for the shorter version.
+
+**die-hard** (noun and adjective)
+
+**dilemma**
+
+Means more than a problem and implies a choice between two unpleasant options.
+
+**diocese**
+
+Capitalize when used as part of a proper name.
+
+**disc**
+
+Spell with a c (laser disc, compact disc, disc jockey) except when referring to computers, which is spelled as disk
+
+**diseases**
+
+Set in lower case, except for those which take the name of a person identified with it.
+
+So: diarrhea, leukemia, Parkinson's disease, Alzheimer's disease, Down syndrome
+disinterested, uninterested
+
+**Disinterested** means impartial, unbiased. **Uninterested** means lacking in interest.
+
+**dispute**, **refute**
+
+To dispute means to debate or question. To refute means to overthrow by argument or evidence. Unless a source can cite proof and is backed by experts, he can only dispute, not refute, allegations or claims in a story.
+
+**dissociate** (not disassociate)
+
+**dropout** (noun), **drop out** (verb)
+
+**duel**
+
+This is a contest between two people.
