@@ -1188,3 +1188,247 @@ In general, no hyphen is needed, except before proper nouns or in awkward combin
 
 **Examples:** *non*aligned nations, *non*stick, *non*-Christian
 
+###O###
+
+**Oasis**, **oases**
+
+**Obscenities and profanities**
+
+If a necessary direct quotation contains profanity, replace letters of the offensive word with a hyphen. The word damn, for example, would appear as d—n. Such material, however, must be used only if there is a compelling reason for it.
+
+**Occidental**
+
+Capitalize when part of a place’s formal name.
+
+So: Negros *Occidental*
+
+**occur**, **occurred**, **occurring**
+
+**odd-**
+
+Is used with a hyphen.
+
+So: *odd*-looking
+
+**office**
+
+Is capitalized only when used as part of a formal name, such as *Office* of the Ombudsman.
+
+**Olympics**
+
+Capitalize all references to the international athletic contests held every four years.
+
+**one-sided**
+
+**on-line**
+
+Hyphenate the adjective form which means computer connectivity.
+
+**oral**, **verbal**
+
+Oral refers to spoken words. Verbal is used when comparing words with some other form of communication.
+
+Example: He gave an *oral* testimony, but his behavior showed what his poor *verbal* skills could not convey.
+
+**out-**
+
+This is usually not hyphenated – *out*argue, *out*box, *out*dated, *out*strip, *out*post, *out*fox, *out*patient.
+
+**-out**
+
+Two words are used for verbs: fade *out*, hide *out*, pull *out*, walk *out*, wash *out*.
+
+Most nouns and adjectives are not hyphenated: pull*out*, fall*out*, walk*out*, wash*out*. Exceptions: cop-*out*, hide-*out*.
+
+**Out of court** (adverb), **out-of-court** (adjective)
+
+They settled *out of court*. She accepted an *out-of-court* settlement.
+
+**over**
+
+Usually refers to spatial relations. The fox jumped *over* the moon.
+
+While *over* can also be used with numbers, try using *more than*.
+
+**overall** (both adjective and adverb)
+
+###P###
+
+**pan-**
+
+Combinations with common nouns do not require hyphens, such as *pan*theism, *pan*chromatic.
+
+However, combinations with proper names require hyphens – *pan*-Asiatic, *Pan*-African.
+
+**pardon**, **parole**, **probation**
+
+*Pardon* releases a person from further punishment and may be granted by the chief of state.
+
+*Parole* releases a prisoner before the end of a sentence, on condition of good behavior.
+
+*Probation* is the suspension of a sentence for a person convicted, but not yet imprisoned, on condition of good behavior.
+
+**parish**
+
+Capitalize as part of the formal name of a church organization – Sto. Rosario *Parish*, Capitol *Parish*.
+
+**part time** (adverb), **part-time** (compound modifier)
+
+She works *part time*. She holds a *part-time* job.
+
+**passer-by**, **passers-by**
+
+**patrol**, **patrolled**, **patrolling**
+
+**peacekeeping**, **peacetime**
+
+**pedal**, **peddle**
+
+You *pedal* a bike, but *peddle* items whenever you sell.
+
+**percent**
+
+One word. It takes a singular verb when standing alone or when a singular word follows an of construction. However, it takes a plural verb when a plural word follows an of construction.
+
+**Example**: The chief said 60 *percent* of the operation was finished. But only 20 *percent* of the members were active.
+
+**personifications**
+
+Capitalize.
+
+**Example**: *Grim Reaper*, *Mother Nature*, *Father Time*
+
+**pile up** (verb), **pileup** (noun, adjective)
+
+**PO1**, **PO2**, **PO3**, **PO4**
+
+Titles of non-commissioned police personnel. There’s no need to spell out, but try to use the full title “police officer 1” in succeeding references to help readers who may not be familiar with the police.
+
+**point-blank**
+
+**police department**
+
+Set in lowercase unless part of a formal name. Usually, it helps to use the formal name upon first mention, but to use a generic name for succeeding references.
+
+So: the *police department*, but the *Cebu City Police Office*
+
+**policemen**
+
+For generic references, use *police personnel*, *operatives*, *members* or *agents*. Avoid using “*policemen*” except when referring to a specific group of PNP members who all happen to be male.
+
+“*Policewoman*” may also be used in specific references.
+
+**pope**
+
+Capitalize when used as a formal title before a name. Lowercase all other uses.
+
+**port**, **starboard**
+
+Nautical terms for left (*port*) and right (*starboard*). Use left and right unless the nautical terms are used in direct quotes.
+
+**post-**
+
+Most words, do not require a hyphen: *post*date, *post*doctoral, *post*election, *post*graduate, *post*nuptial, *post*operative, *post*script, *post*war.
+
+Exceptions: *post*-mortem, *post*-bellum
+
+**practice** (noun), **practice** (verb)
+
+**pre-**
+
+Generally, a hyphen is used if a prefix ends in a vowel and the word that follows begins with the same vowel: *pre*-election, *pre*-eminent, *pre*-empt, *pre*-establish.
+
+Otherwise, hyphens are not required.
+
+*Pre*arrange, *pre*cook, *pre*date, *pre*historic, *pre*judge, *pre*marital, *pre*natal, *pre*test, *pre*war
+
+**presently**
+
+Means in a little while or shortly, not now, currently or at present.
+
+**prima-facie** (adjective)
+
+**privilege**, **privileged**
+
+**profit-sharing** (noun, adjective)
+
+**prostitutes**
+
+Use commercial sex workers (CSW), except when “prostitute” or “prostituted women” is used in direct quotations. Women rounded up by the police and charged for vagrancy should not be called “suspected prostitutes.”
+
+**proviso**, **provisos**
+
+**pull back** (verb), **pullback** (noun)
+
+**pupil**, **student**
+
+Use *pupil* for children in kindergarten through grade six. Use *students* for high school to postgraduate studies.
+
+**push-button** (noun, adjective)
+
+**push up** (verb), **push-up** (noun, adjective)
+
+###Q###
+
+**questionnaire**
+
+**quick-witted**
+
+**quotations**
+
+Quotations may be altered to correct **minor** grammatical errors, but not word usage. Sun.Star reports must check with their sources if they are unsure about a quote.
+
+###R###
+
+**radio station**
+
+The first two call letters are set in lowercase – radio dyRC, radio dyRF.
+
+**rank and file** (noun), **rank-and-file** (adjective)
+
+**rebut**, **refute**
+
+*Rebut* means to argue to the contrary.
+
+*Refute* connotes success in argument and usually implies and editorial judgment.
+
+**recur**, **recurred**, **recurring**
+
+**red-handed** (adjective, adverb)
+
+**red-hot**
+
+**reelect**, **reelection**
+
+**religious references**
+
+Capitalize the proper names of monotheistic deities and pronouns referring to them – God, Allah, Jesus Christ, the Holy Spirit.
+
+Capitalize the names of pagan or mythological gods and goddesses, but not the pronouns referring to them – Thor, Venus, Zeus, Athena.
+
+**representative**, **Rep.**
+
+Abbreviate when used with the full name of a member of Congress. Spell out upon second reference with the surname only.
+
+Examples: *Rep.* John Osmeña, *Representative* Gullas
+
+**right hand** (noun), **right-handed** (adjective)
+
+**road right-of-way** (RROW)
+
+**rip off** (verb), **rip-off** (noun, adjective)
+
+**Roman numerals**
+
+Use these only with wars and to establish sequence for people. Use Arabic numerals for all other cases.
+
+**Examples:** World War II, John Paul II
+
+**round up** (verb), **roundup** (noun)
+
+**rubber stamp** (noun) **rubber-stamp** (verb and adjective)
+
+**runner-up**, **runners-up**
+
+**rush hour** (noun), **rush-hour** (adjective)
+
