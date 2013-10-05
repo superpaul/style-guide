@@ -843,3 +843,187 @@ Hyphenate both the noun and adjectival forms. Examples: first-grader, a sixth-gr
 **gross national product**
 
 The total value at retail prices of all the goods and services produced by a nation's economy in a given period. Set in lower case, but capitalize the acronym - GNP.
+
+
+###H###
+
+**habeas corpus**
+
+A writ ordering a person in custody to be brought before a court. It places the burden of proof on those detaining the person to justify the detention.
+
+**half-cooked**
+
+**half-truth**
+
+**half-mast**, **half-staff**
+
+Use *half-mast* in reference to naval ships or bases. Otherwise, use *half-staff*.
+
+**Hand carry** (verb), **handcarried** (adjective)
+
+**Handicapped**, **disabled**, **impaired**
+
+If a description is essential to a story, specify what the handicap is (blind, deaf, mute, wheelchair-user) instead of using disabled, handicapped or impaired.
+
+**Hands off** (verb), **hands-off** (adjective)
+
+**Hand to mouth** (adverb) **hand-to-mouth** (adjective)
+
+**Hang**, **hanged**, **hung**
+
+One hangs a picture or a person. Use hanged for past tense or passive when referring to executions or suicides, but hung for other actions.
+
+Examples: The Singaporean Government *hanged* Flor Contemplacion. Her children *hung* a picture in her memory.
+
+**Hang over** (verb) **hangover** (noun)
+
+**Headlong**
+
+**Head on** (adverb), **head-on** (adjective)
+
+**Hide out** (verb), **hideout** (noun)
+
+**His**, **her**
+
+Do not presume maleness. When an indefinite antecedent may be male or female, reconstruct the sentence instead.
+
+**Weak**: A journalist does his best to present all sides fairly. **Better**: Journalists do their best to present all sides fairly.
+
+**History**
+
+You don’t need the term past before it.
+
+**Historic**, **historical**
+
+*Historic* means important or outstanding in history. *Historical* simply means occurring in history.
+
+**Hit and run** (verb) **hit-and-run** (noun and adjective)
+
+**Hodgepodge**
+
+**Hold up** (verb), **holdup** (noun)
+
+**Hong Kong**
+
+**Hopefully**
+
+Means in a hopeful manner. But this doesn’t mean it is hoped, let us hope or I hope – Such colloquial usage is acceptable only in direct quotation.
+
+**Right** — She ran for office hopefully. **Wrong** — Hopefully, she will win.
+
+**House of Representatives**, a **House committee**
+
+**Hydro**, **hyper**
+
+Do not require hyphens — hydroelectric, hyrdrophobia, hyperactive, hypertension.
+
+###I###
+
+**Illegal**
+
+Use only when referring to a violation of the law. In some labor-management disputes, one side may erroneously call an act by the other as illegal.
+
+**Imam**
+
+Capitalize only when used as the formal title appearing before the name of a Muslim leader. Lowercase other references.
+
+**Impassable**, **impassible**, **impassive**
+
+*Impassable* means passage is not possible — an *impassable* bridge.
+
+*Impassible* and *impassive* describe a lack of sensitivity to pain or suffering.
+
+**Impeachment**
+
+A constitutional process where an elected official is accused of a crime in an attempt to remove the official from office. Not a synonym for convicted or removed from office.
+
+**Imply**, **infer**
+
+Writers or speakers *imply*. Listeners or readers *infer*.
+
+**In**, **into**
+
+*In* indicates location; *into*, motion.
+
+So: She was *in* the room. He walked *into* the cell
+
+**Inc.**
+
+Abbreviate and capitalize as part of a formal name. Does not require a comma before it.
+
+**incredible**, **incredulous**
+
+*Incredible* means unbelievable; *incredulous* means skeptical
+
+**indoor** (adjective), **indoors** (adverb)
+
+**inflation**
+
+A sustained increase in prices which decreases the purchasing power of money
+
+**injuries**
+
+Are suffered, not sustained or received.
+
+**in spite of**
+
+*Despite* means the same thing and is shorter.
+
+**island**
+
+Capitalize as part of a proper name, but not when it stands alone or refers to islands in a given area.
+
+So: Apo *Island*, the Spratly *islands*
+
+**It’s**, **its**
+
+*It’s* is a contraction for it is, while *its* is the possessive form of the neuter pronoun.
+
+**Example**: The corporation lost all *its* assets. *It’s* but natural for the manager to get upset.
+
+###J###
+
+**Jail**
+
+Is not interchangeable with prison.
+
+**Jargon**
+
+A special vocabulary of a particular class or occupational group. Avoid using jargon, except when appropriate in a certain context or used as part of a direct quote. If so, explain what the jargon means.
+
+**Jesus**
+
+The central figure of Christianity. Personal pronouns referring to Him are capitalized.
+
+**Jr.**, **Sr.**
+
+You don’t need a comma to set these off.
+
+**Judgment**, not **judgement**
+
+**Juvenile delinquents**
+
+Sun.Star Cebu shall withhold the names of minors accused of crime, or victimized by it. This restriction applies to child abuse cases.
+
+###K###
+
+**Kidnap**, **kidnapped**, **kidnapping**
+
+**Kids**
+
+Use children, except when referring to goats or using a direct quotation.
+
+**Killer**
+
+See entry on assassin, killer, murderer.
+
+**Knickknack**
+
+**Knights of Columbus**
+
+**Kodak**
+
+**Koran**
+
+**Kudos**
+
