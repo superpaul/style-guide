@@ -1776,6 +1776,8 @@ Should receive the same treatment as men in all areas of coverage. (Still to be 
 
 **worn-out**
 
+**www** World Wide Web. Many website addresses will still work without the *www* prefix. When including a web address in your article, please check if it works without www. If it does, remove the prefix.
+
 ###X, Y, Z###
 
 **Xerox**
