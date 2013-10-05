@@ -1703,7 +1703,7 @@ VD is acceptable on second reference.
 
 Italicize vernacular terms or quotations, if these are necessary or add color to the story. Then, provide an English translation, enclosed in parentheses, after the paragraph.
 
-Example: “*Wa siya malipong?*” he said when told of the mayor’s proposal. (Is he in his right mind?)
+**Example**: “*Wa siya malipong?*” he said when told of the mayor’s proposal. (Is he in his right mind?)
 
 **vice mayor**, **vice governor**, **vice admiral**
 
