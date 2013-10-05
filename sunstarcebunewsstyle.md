@@ -56,7 +56,7 @@ A commonly understood word made up of the initials of other words.
 
 1) Set in capitals if the acronym is not a recognizable word, such as MCWD (Metro Cebu Water District), DPWH (Department of Public Works and Highways) or DSWD (Department of Social Welfare and Development).
 
-2) Acronyms made up of only three leters must be capitalized as well to allow easy reading, such as VAT.
+2) Acronyms made up of only three letters must be capitalized as well to allow easy reading, such as VAT.
 
 3) However, acronyms with more than three letters and which can be read as a word must be set in caps and lower case, such as Clear (Center for Labor Advocacy, Education and Research).
 
@@ -64,7 +64,7 @@ A commonly understood word made up of the initials of other words.
 
 **Aids** Acquired Immune Deficiency Syndrome.
 
-Use person with Aids, instead of Aids victim. (Note: Additional section being drafted on Aids-sensitive terms.)
+Use person with Aids, instead of Aids victim. (*Note*: Additional section being drafted on Aids-sensitive terms.)
 
 **Alleged**, **allegedly**
 
@@ -76,7 +76,7 @@ Police *alleged* that John Doe killed his mother.
 
 **Allude**, **refer**
 
-To allude to something is to refer to it without mentioning it by name. To refer to something is to mention it by name.
+To *allude* to something is to *refer* to it without mentioning it by name. To refer to something is to mention it by name.
 
 **all ready** (prepared), **already** (previously)
 
