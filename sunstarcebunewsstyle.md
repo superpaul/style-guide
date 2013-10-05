@@ -608,3 +608,238 @@ To dispute means to debate or question. To refute means to overthrow by argument
 **duel**
 
 This is a contest between two people.
+
+###E###
+
+**each other, one another**
+
+Use each other when referring to two people, one another for more than two.
+
+**earth**
+
+Set in lower case, except when referring to the planet.
+
+**either** ... **or** (and **neither** ... **nor**)
+
+The verb always agrees with the nearer subject.
+
+Either the woman or her children are lost.
+
+**emigrate**, **immigrate**
+
+The first refers to leaving one's country; the secnd refers to entering another country.
+
+**employee**
+
+Both *employe* and *employee* are correct, but Sun.Star opts for *employee*.
+
+**enroll**, **enrollment**, **enrolled**
+
+**entitled**, **titled**
+
+One who is *entitled* has the right to get or do something. *Titled* refers to the name of a document, book, etc.
+
+**empty-handed**
+
+**en route**
+
+**equivalent**
+
+The adjective is followed by to but the noun is followed by of.
+
+**every day** (adverb), **everyday** (adjective)
+
+She likes everyday clothing, but wears designer shoes every day.
+everyone, every one
+
+**Everyone** means all people. **Every one** means each one.
+
+**executive director**
+
+When used before a name as a formal corporate or organizational title, capitalize.
+
+**extralegal**, **extramarital**, **extasensory**, **extraterrestial**
+
+**eye-to-eye**
+
+**eyewitness**
+
+###F###
+
+**fade out** (verb), **fade-out** (noun)
+
+**fall out** (verb), **fallout** (noun)
+
+**far-flung**, **far-off**, **far-ranging**
+
+**farther**, **further**
+
+Use *farther* for physical distance only, but *further* in all other instances.
+
+**felony**, **misdemeanor**
+
+A *felony* is a serious crime, while a *misdemeanor* is a minor offense against the law.
+
+**ferryboat**
+
+**fewer**, **less**
+
+Fewer generally refers to distinguishable units, while less refers to bulk, amount, sum, period of time.
+
+**fiance** (male), **fiancee** (female)
+
+**filibuster**
+
+When one makes long speeches to obstruct the passage of legislation. A legislator who uses such methods is also called a filibuster, not a filibusterer.
+
+**firefighter**
+
+This term is preferred over fireman.
+
+**First Lady**
+
+Is capitalized before the name of the chief of state's wife, but set in lower case on succeeding references or when used as a generic term.
+
+**fiscal**, **monetary**
+
+*Fiscal* applies to budget matters, while *monetary* applies to money supply.
+
+**fiscalize**, **fiscalizer**
+
+Use **other verbs** such as *criticize*, *denounce* or *expose*, and other nouns like *critic*, *watchdog*.
+
+**flammable**
+
+Not inflammable.
+
+**flare up** (verb), **flare-up** (noun)
+
+**flash flood**
+
+**floodwaters**
+
+**flaunt**, **flout**
+
+The first means to display boldly, while the other means to mock, ignore, or show scorn or contempt for.
+
+**follow up** (verb), **follow-up** (noun, adjective)
+
+**foot-and-mouth disease**
+
+**forefather**
+
+**forego**, **forgo**
+
+To forego is to precede or to go before (foregone conclusion), but to forgo is to do without or abstain from (forgo payment).
+
+**foregoing**
+
+**former**
+
+Set in lowercase, but capitalize the former title if used before a name.
+
+So: *former* Cebu City Mayor Eulogio Borres *former* Gov. Vicente de la Serna
+
+**fortune-teller**
+
+**four-star**
+
+**fractions**
+
+Spell out amounts less than one in stories, with hyphens between the words: two-thirds, three-fourths.
+
+**frame up** (verb), **frame-up** (noun)
+
+**free-for-all** (noun, adjective)
+
+**freelance** (verb, adjective)
+
+**front line** (noun), **front-line** (adjective)
+
+**front page** (noun), **front-page** (adjective)
+
+**front-runner**
+
+**full-fledged**, **full-length**, **full-page**, **full-scale**
+
+**full time** (adverb), **full-time** (adjective)
+
+###G###
+
+**game plan**
+
+**gay**
+
+Acceptable as popular synonym for homosexual.
+
+**general manager**
+
+Capitalize only as a formal title before a name.
+
+So: MCIAA General Manager Benito Diamos
+
+**get away** (verb), **getaway** (noun)
+
+**get-together**
+
+**gibe**, **jibe**
+
+To *gibe* is to taunt; to *jibe* is to agree.
+
+**good**, **well**
+
+Good is an adjective that means something is as it should be or better than average. Well, as an adjective, means suitable, proper or healthy.
+
+Only well can be used as an adverb. It means in satisfactory manner or skillfully.
+
+**good will** (noun); **goodwill** (adjective)
+
+**gourmand**, **gourmet**
+
+A *gourmand* likes good food and eats to excess; a *gourmet* likes fine food and is a fine judge of it.
+
+**government**, **administration**, **regime**, **junta**
+
+A *government* is an established system of political administration.
+
+An *administration* consists of the officials who make up the executive branch of government.
+
+*Regime* is a synonym for a political system. A junta is a group that often rules after a coup d'etat.
+
+**governmental bodies or agencies**
+
+**Capitalize** full proper names, but not their generic equivalents.
+
+Examples:
+
+Bagong Buhay Rehabilitation Center, city jail
+
+the Cebu City Police Office, the city police force
+
+the Office of the Ombudsman, the anti-graft office
+
+the Cebu City Prosecutor's Office
+
+the Department of Education, Culture and Sports, the education department
+
+the Department of Justice, the justice department
+
+**governor**
+
+Capitalize and abbreviate when used as a formal title before a complete name. Set in lower case in succeeding references with surnames only, or when used as appositives.
+
+Examples:
+
+Gov. Pablo Garcia
+
+Governor Garcia
+
+Pablo Garcia, governor of Cebu, said...
+
+**grade**, **grader**
+
+Hyphenate both the noun and adjectival forms. Examples: first-grader, a sixth-grade pupil
+
+**gross national product**
+
+The total value at retail prices of all the goods and services produced by a nation's economy in a given period. Set in lower case, but capitalize the acronym - GNP.
