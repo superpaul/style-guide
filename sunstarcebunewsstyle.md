@@ -1534,6 +1534,8 @@ If the individual’s gender is unknown, use representative.
 
 **stand out** (verb), **standout** (noun, adjective)
 
+**startup** not **start-up** A company that is at the early stage of its operations. Most startups in the news today are technology-based companies.
+
 **State of the Nation Address**
 
 Do not hyphenate and avoid using the acronymn Sona. In succeeding references, use “the President, in his speech” or simply “the President said…”
