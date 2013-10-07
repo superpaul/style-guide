@@ -6,20 +6,19 @@
 
 When in doubt, don't.
 
-1) Abbreviate street, avenue and boulevard in numbered addresses. Do not abbreviate drive and road.
+**1) Abbreviate street, avenue and boulevard in numbered addresses. Do not abbreviate drive and road.**
 
-2) Use BC, AD, a.m., p.m. and no. with specific dates, hours and numbers.
+**2) Use BC, AD, a.m., p.m. and no. with specific dates, hours and numbers.**
 
 Not: Last p.m. the police asked for the no. of the suspect's room. Instead, write: Last night, the police asked for the number of the suspect's room.
 
-3) Use Mr., Ms, Dr., Sen., Rep., Gov. and Prof. Spell out all except Mr., Ms and Dr. before a surname only. Ms has no period.
+**3) Use Mr., Ms, Dr., Sen., Rep., Gov. and Prof. Spell out all except Mr., Ms and Dr. before a surname only. Ms has no period.**
 
-4) Do not abbreviate:
+**4) Do not abbreviate:**
 
 president, vice president, secretary, treasurer, assistant secretary, assistant treasurer, auditor, director, solicitor general, ambassador, consul, general, minister, mayor, vice mayor, councilor
 
-5) Do not use the abbreviations Atty., Engr. and Arch. before a person's name.
-If it is necessary to mention a person's profession in a story, say:
+**5) Do not use the abbreviations Atty., Engr. and Arch. before a person's name. If it is necessary to mention a person's profession in a story, say:**
 
 *lawyer* Amadeo Seno
 
@@ -29,37 +28,37 @@ Mel Libre, a *lawyer*,
 
 Jose Troyo, an *engineer*,
 
-6) Abbreviate junior or senior after a person's name.
+**6) Abbreviate junior or senior after a person's name.**
 
 Apolonio Abines Jr. or Jesus Garcia Sr.
 
-7) Abbreviate ecclesiastical titles:
+**7) Abbreviate ecclesiastical titles:**
 
 Rev., Fr., Bro., Msgr. Rt. Rev.
 
 Don't abbreviate Cardinal, Papal Nuncio, Archbishop and Bishop.
 
-8) Military titles - Airman, commodore and ensign have no abbreviations.
+**8) Military titles - Airman, commodore and ensign have no abbreviations.**
 
 When only the surname follows, however, spell out the full title.
 
-9) Abbreviate Saint, Santo, Santa, Fort and Mount.
+**9) Abbreviate Saint, Santo, Santa, Fort and Mount.**
 
-10) Abbreviate certain months with a specific date:
+**10) Abbreviate certain months with a specific date:**
 
 Jan. 1, Feb. 2, Aug. 3, Sept. 4, Oct. 5, Nov. 6, Dec. 7 but not: March, April, May, July Do not abbreviate any month standing alone or with a year alone.
 
-11) Abbreviate company, corporation, incorporated, limited, or brothers at the end of the name of a business enterprise.
+**11) Abbreviate company, corporation, incorporated, limited, or brothers at the end of the name of a business enterprise.**
 
 **Acronym**
 
 A commonly understood word made up of the initials of other words.
 
-1) Set in capitals if the acronym is not a recognizable word, such as MCWD (Metro Cebu Water District), DPWH (Department of Public Works and Highways) or DSWD (Department of Social Welfare and Development).
+**1) Set in capitals if the acronym is not a recognizable word, such as MCWD (Metro Cebu Water District), DPWH (Department of Public Works and Highways) or DSWD (Department of Social Welfare and Development).**
 
-2) Acronyms made up of only three letters must be capitalized as well to allow easy reading, such as VAT.
+**2) Acronyms made up of only three letters must be capitalized as well to allow easy reading, such as VAT.**
 
-3) However, acronyms with more than three letters and which can be read as a word must be set in caps and lower case, such as Clear (Center for Labor Advocacy, Education and Research).
+**3) However, acronyms with more than three letters and which can be read as a word must be set in caps and lower case, such as Clear (Center for Labor Advocacy, Education and Research).**
 
 **Advice** (noun), **advise** (verb)
 
