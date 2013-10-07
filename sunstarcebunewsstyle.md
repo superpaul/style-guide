@@ -9,7 +9,8 @@ When in doubt, don't.
 1) Abbreviate street, avenue and boulevard in numbered addresses. Do not abbreviate drive and road.
 
 2) Use BC, AD, a.m., p.m. and no. with specific dates, hours and numbers.
-Not: Last p.m. the police asked for the no. of the suspect's room.
+
+Not: Last p.m. the police asked for the no. of the suspect's room. Instead, write: Last night, the police asked for the number of the suspect's room.
 
 3) Use Mr., Ms, Dr., Sen., Rep., Gov. and Prof. Spell out all except Mr., Ms and Dr. before a surname only. Ms has no period.
 
