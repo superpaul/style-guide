@@ -16,30 +16,36 @@ Not: Last p.m. the police asked for the no. of the suspect's room.
 4) Do not abbreviate:
 
 president, vice president, secretary, treasurer, assistant secretary, assistant treasurer, auditor, director, solicitor general, ambassador, consul, general, minister, mayor, vice mayor, councilor
+
 5) Do not use the abbreviations Atty., Engr. and Arch. before a person's name.
 If it is necessary to mention a person's profession in a story, say:
 
-lawyer Amadeo Seno
+*lawyer* Amadeo Seno
 
-Mel Libre, a lawyer,
+Mel Libre, a *lawyer*,
 
-architect Melva Java
+*architect* Melva Java
 
-Jose Troyo, an engineer,
+Jose Troyo, an *engineer*,
 
 6) Abbreviate junior or senior after a person's name.
 
 Apolonio Abines Jr. or Jesus Garcia Sr.
+
 7) Abbreviate ecclesiastical titles:
+
 Rev., Fr., Bro., Msgr. Rt. Rev.
+
 Don't abbreviate Cardinal, Papal Nuncio, Archbishop and Bishop.
 
 8) Military titles - Airman, commodore and ensign have no abbreviations.
+
 When only the surname follows, however, spell out the full title.
 
 9) Abbreviate Saint, Santo, Santa, Fort and Mount.
 
 10) Abbreviate certain months with a specific date:
+
 Jan. 1, Feb. 2, Aug. 3, Sept. 4, Oct. 5, Nov. 6, Dec. 7 but not: March, April, May, July Do not abbreviate any month standing alone or with a year alone.
 
 11) Abbreviate company, corporation, incorporated, limited, or brothers at the end of the name of a business enterprise.
@@ -50,7 +56,7 @@ A commonly understood word made up of the initials of other words.
 
 1) Set in capitals if the acronym is not a recognizable word, such as MCWD (Metro Cebu Water District), DPWH (Department of Public Works and Highways) or DSWD (Department of Social Welfare and Development).
 
-2) Acronyms made up of only three leters must be capitalized as well to allow easy reading, such as VAT.
+2) Acronyms made up of only three letters must be capitalized as well to allow easy reading, such as VAT.
 
 3) However, acronyms with more than three letters and which can be read as a word must be set in caps and lower case, such as Clear (Center for Labor Advocacy, Education and Research).
 
@@ -58,18 +64,19 @@ A commonly understood word made up of the initials of other words.
 
 **Aids** Acquired Immune Deficiency Syndrome.
 
-Use person with Aids, instead of Aids victim. (Note: Additional section being drafted on Aids-sensitive terms.)
+Use person with Aids, instead of Aids victim. (*Note*: Additional section being drafted on Aids-sensitive terms.)
 
 **Alleged**, **allegedly**
 
 Indicates that the paper is reporting a charge or accusation made by someone else. As such, the source of an allegation must be specific. In a criminal case, the source must be official.
 
-Police alleged that John Doe killed his mother.
-Not: Police said John Doe allegedly killed his mother.
+Police *alleged* that John Doe killed his mother.
+
+**Not**: Police said John Doe allegedly killed his mother.
 
 **Allude**, **refer**
 
-To allude to something is to refer to it without mentioning it by name. To refer to something is to mention it by name.
+To *allude* to something is to *refer* to it without mentioning it by name. To refer to something is to mention it by name.
 
 **all ready** (prepared), **already** (previously)
 
@@ -88,7 +95,9 @@ There's no such person. Use attackers or assailants.
 Another is not a synonym for additional. It refers to a duplication of a previous quantity.
 
 **Right**: Ten students passed; another 10 failed.
+
 **Right**: Ten students passed; seven others failed.
+
 **Wrong**: Ten students passed; another seven failed.
 
 **anticipate**
@@ -131,12 +140,12 @@ g) An apostrophe is needed for some idiomatic phrases even when there is no actu
 
 The apostrophe is used to form the plural only for single letters, but not for others.
 
-So: straight A's, dot your t's, but 1960s, 80s. Exceptions: do's and don'ts.
+**So**: straight A's, dot your t's, but 1960s, 80s. Exceptions: do's and don'ts.
 appraise (to set a monetary value on), apprise (to inform)
 
 **arbitrate**, **mediate**
 
-An arbitrator gives a binding decision in a dispute. A mediator makes a recommendation and tries to persuade the parties in a dispute to agree.
+An *arbitrator* gives a binding decision in a dispute. A *mediator* makes a recommendation and tries to persuade the parties in a dispute to agree.
 
 **ascent** (a climb), **assent** (an agreement)
 
@@ -192,9 +201,9 @@ Beside means at the side of. Besides means in addition to.
 
 Use between for two items, among for more than two. Both are followed by pronouns in the objective sense.
 
-Wrong: between you and I
+**Wrong**: between you and I
 
-Right: between you and me
+**Right**: between you and me
 
 **between ... and**
 
@@ -232,17 +241,26 @@ An operation where police personnel or their "civilian assets" pose as buyers of
 
 **bylines**
 
+<<<<<<< HEAD
 For reporters:
 
 Justin K. Vestil<br />
 Sun.Star Staff Reporter
 
 For editors: 
+=======
+**For reporters:**
+
+Justin K. Vestil <br />
+Sun.Star Staff Reporter
+
+**For editors:** 
+>>>>>>> 776321a610d205556ceb34a6353a99079cf1326d
 
 Isolde D. Amante<br />
 of Sun.Star Cebu
 
-For photographers:
+**For photographers:**
 
 (SUN.STAR FOTO/ALEX BADAYOS)
 
@@ -252,7 +270,7 @@ For end lines or taglines:
 
 JKV, MTL, IDA, MPS, LAP 
 
-But(AFP), (AP), (PNA), (Sunnex), (Sun.Star Baguio)
+But (AFP), (AP), (PNA), (Sunnex), (Sun.Star Baguio)
 
 
 ###C###
@@ -260,7 +278,8 @@ But(AFP), (AP), (PNA), (Sunnex), (Sun.Star Baguio)
 **Cabinet**
 
 Capitalize when referring to the executive branch of government.
-Example: Members of the Cabinet narrowly escaped harm when their plane had to belly-land yesterday in Cavite.
+
+**Example:** Members of the Cabinet narrowly escaped harm when their plane had to belly-land yesterday in Cavite.
 
 **Cancel** (to do away with), **postpone** (to defer or reschedule)
 
@@ -268,9 +287,9 @@ When using postpone, do not add "to a later date."
 
 **capital**, **capitol**
 
-A capital is a city which is also the seat of government. So: Roxas city is the capital of Capiz province.
+A *capital* is a city which is also the seat of government. **So**: Roxas city is the *capital* of Capiz province.
 
-A capitol is a building. Capitalize when referring to the Provincial Government. So: The Capitol plans to recover some land.
+A **capitol** is a building. Capitalize when referring to the Provincial Government. **So**: The *Capitol* plans to recover some land.
 
 **Capitalization**
 
@@ -278,29 +297,29 @@ A capitol is a building. Capitalize when referring to the Provincial Government.
 
 In headlines, capitalize only the first letter of the first word, aside from the proper nouns.
 
-2) Use lowercase for the names of legislative committees; the Senate blue ribbon committee, the House committee on justice and human rights.
+2) Use lowercase for the names of legislative committees; the Senate blue ribbon *committee*, the House *committee* on justice and human rights.
 
 3) Lower case city, province and government when used as generic terms, but capitalize them when referring to a specific unit.
 
-Cebu city residents cannot vote for officials of the Province, but are of course included in elections for National Government positions.
+Cebu *city* residents cannot vote for officials of the *Province*, but are of course included in elections for *National Government* positions.
 
-The government cannot prohibit the entry of persons with HIV.
+The *government* cannot prohibit the entry of persons with HIV.
 
 4) Capitalize proper nouns referring to the divinity and religious groups or sects, except in generic references.
 
-So: God, Allah, Yahweh, Muslims, Roman Catholics
+**So**: God, Allah, Yahweh, Muslims, Roman Catholics
 
-But: a Greek god, pagan goddesses
+**But**: a Greek god, pagan goddesses
 
-5) Use lower case when refering to everyday rites or ceremonies such as the mass, last rites, baptism.
+5) Use lower case when referring to everyday rites or ceremonies such as the mass, last rites, baptism.
 
 But capitalize religious holidays such as Christmas, Lent, Holy Week, Easter, Ramadan.
 
 6) The word following a colon is capitalized in headlines. In text, the word following a colon is capitalized only if it belongs to a complete sentence.
 
-Right: She had many skills: dancing, singing, painting.
+**Right**: She had many skills: dancing, singing, painting.
 
-Right: Her worry: She had far too many things to do.
+**Right**: Her worry: She had far too many things to do.
 
 **Captions or cutlines**
 
@@ -340,7 +359,7 @@ Capitalize all formal titles used in this office when paired with full names; Ce
 
 **celebrant**, **celebrator**
 
-A celebrant is one who performs a religious rite, while a celebrator is one having a good time or marking his or her birthday.
+A *celebrant* is one who performs a religious rite, while a *celebrator* is one having a good time or marking his or her birthday.
 
 **center**
 
@@ -360,11 +379,11 @@ Character refers to moral qualities, while reputation refers to the way a person
 
 Capitalize when used as a synonym for the City Government, but lowercase general references.
 
-Build a new city hall; the meeting will be held at the City Hall.
+Build a new *city hall*; the meeting will be held at the *City Hall*.
 
 **claim**
 
-Avoid. Unlike assert or say, this carries a connotation of untruth.
+*Avoid*. Unlike assert or say, this *carries a connotation of untruth*.
 
 **clean up** (verb), **cleanup** (noun, adjective)
 
@@ -448,7 +467,7 @@ She bought the ingredients, and he thanked her for staying within their budget.
 
 9) Use a comma after the day and year in precise dates, but not when only the month and day or the month and year are used.
 
-So - Nov. 15, 1972, but in November 1972.
+**So**: Nov. 15, 1972, but in November 1972.
 
 10) use a comma before designations of academic or professional degrees and religious orders, but not before Jr., Sr., Ltd., Inc. and Roman numerals after names.
 
@@ -510,9 +529,9 @@ This is a derogatory term for police officer and should be confined to heads, wh
 
 This is spelled out and set in lower case upon second or third reference, or as when used as a generic noun. But when used as part of a name, it is capitalized and abbreviated.
 
-The corporation is allowed ...
+The *corporation* is allowed ...
 
-The General Milling Corp. ...
+The General Milling *Corp.* ...
 
 **countdown**
 
@@ -542,13 +561,13 @@ Use *now*. Better yes, *don't use either*.
 
 The first means destruction, the second means compensation awarded by the court.
 
-Also, damage is always partial. Destroyed is more accurate than totally damaged, in the same way that damaged is a better term than partially destroyed.
+Also, damage is *always partial*. Destroyed is more accurate than totally damaged, in the same way that damaged is a better term than partially destroyed.
 
 **dangling modifiers**
 
 Make sure each modifier refers clearly to a word in the sentence.
 
-Dangling: Worn on a chain, I showed the pendant off to my friends. Better: Worn on a chain, the pendant drew many admiring looks.
+**Dangling**: Worn on a chain, I showed the pendant off to my friends. **Better**: Worn on a chain, the pendant drew many admiring looks.
 
 **data**
 
@@ -592,14 +611,15 @@ Spell with a c (laser disc, compact disc, disc jockey) except when referring to 
 
 Set in lower case, except for those which take the name of a person identified with it.
 
-So: diarrhea, leukemia, Parkinson's disease, Alzheimer's disease, Down syndrome
-disinterested, uninterested
+**So**: diarrhea, leukemia, Parkinson's disease, Alzheimer's disease, Down syndrome
+
+**disinterested, uninterested**
 
 **Disinterested** means impartial, unbiased. **Uninterested** means lacking in interest.
 
 **dispute**, **refute**
 
-To dispute means to debate or question. To refute means to overthrow by argument or evidence. Unless a source can cite proof and is backed by experts, he can only dispute, not refute, allegations or claims in a story.
+To *dispute* means to debate or question. To *refute* means to overthrow by argument or evidence. Unless a source can cite proof and is backed by experts, he can *only dispute*, *not refute*, allegations or claims in a story.
 
 **dissociate** (not disassociate)
 
@@ -730,7 +750,7 @@ The first means to display boldly, while the other means to mock, ignore, or sho
 
 **forego**, **forgo**
 
-To forego is to precede or to go before (foregone conclusion), but to forgo is to do without or abstain from (forgo payment).
+To *forego* is to precede or to go before (*foregone* conclusion), but to *forgo* is to do without or abstain from (*forgo* payment).
 
 **foregoing**
 
@@ -776,7 +796,7 @@ Acceptable as popular synonym for homosexual.
 
 Capitalize only as a formal title before a name.
 
-So: MCIAA General Manager Benito Diamos
+**So**: MCIAA General Manager Benito Diamos
 
 **get away** (verb), **getaway** (noun)
 
@@ -828,13 +848,13 @@ the Department of Justice, the justice department
 
 Capitalize and abbreviate when used as a formal title before a complete name. Set in lower case in succeeding references with surnames only, or when used as appositives.
 
-Examples:
+**Examples**:
 
-Gov. Pablo Garcia
+*Gov.* Pablo Garcia
 
-Governor Garcia
+*Governor* Garcia
 
-Pablo Garcia, governor of Cebu, said...
+Pablo Garcia, *governor* of Cebu, said...
 
 **grade**, **grader**
 
@@ -873,7 +893,7 @@ If a description is essential to a story, specify what the handicap is (blind, d
 
 One hangs a picture or a person. Use hanged for past tense or passive when referring to executions or suicides, but hung for other actions.
 
-Examples: The Singaporean Government *hanged* Flor Contemplacion. Her children *hung* a picture in her memory.
+**Examples**: The Singaporean Government *hanged* Flor Contemplacion. Her children *hung* a picture in her memory.
 
 **Hang over** (verb) **hangover** (noun)
 
@@ -945,7 +965,7 @@ Writers or speakers *imply*. Listeners or readers *infer*.
 
 *In* indicates location; *into*, motion.
 
-So: She was *in* the room. He walked *into* the cell
+**So**: She was *in* the room. He walked *into* the cell
 
 **Inc.**
 
@@ -973,7 +993,7 @@ Are suffered, not sustained or received.
 
 Capitalize as part of a proper name, but not when it stands alone or refers to islands in a given area.
 
-So: Apo *Island*, the Spratly *islands*
+**So**: Apo *Island*, the Spratly *islands*
 
 **It’s**, **its**
 
@@ -1069,7 +1089,7 @@ Don’t use *lit* as past tense
 
 Use like as a preposition to compare nouns or pronouns. This requires an object. However, use as to introduce clauses.
 
-So: She sings *like* a pro.
+**So**: She sings *like* a pro.
 
 He hits the high notes *as* he should.
 
@@ -1087,7 +1107,7 @@ Use sparingly.
 
 Hyphenate when used as a compound modifier.
 
-Example: We will overcome in the **long term**. She has a **long-term** plan.
+**Example**: We will overcome in the **long term**. She has a **long-term** plan.
 
 **long time**, **longtime**
 
@@ -1133,7 +1153,7 @@ Do not add an s to form the plural.
 
 A hyphen isn’t needed unless a capitalized word follows.
 
-So: *mid*year, *mid*-Atlantic, *mid*term
+**So**: *mid*year, *mid*-Atlantic, *mid*term
 
 **middle initials**
 
@@ -1153,7 +1173,7 @@ People are not killed in *mishaps*.
 
 Lowercase, except when using specific titles.
 
-So: He led in the singing of the *national anthem*, “Lupang Hinirang”
+**So**: He led in the singing of the *national anthem*, “Lupang Hinirang”
 nationwide
 
 **Navy**
@@ -1200,7 +1220,7 @@ If a necessary direct quotation contains profanity, replace letters of the offen
 
 Capitalize when part of a place’s formal name.
 
-So: Negros *Occidental*
+**So**: Negros *Occidental*
 
 **occur**, **occurred**, **occurring**
 
@@ -1208,7 +1228,7 @@ So: Negros *Occidental*
 
 Is used with a hyphen.
 
-So: *odd*-looking
+**So**: *odd*-looking
 
 **office**
 
@@ -1228,7 +1248,7 @@ Hyphenate the adjective form which means computer connectivity.
 
 Oral refers to spoken words. Verbal is used when comparing words with some other form of communication.
 
-Example: He gave an *oral* testimony, but his behavior showed what his poor *verbal* skills could not convey.
+**Example**: He gave an *oral* testimony, but his behavior showed what his poor *verbal* skills could not convey.
 
 **out-**
 
@@ -1310,7 +1330,7 @@ Titles of non-commissioned police personnel. There’s no need to spell out, but
 
 Set in lowercase unless part of a formal name. Usually, it helps to use the formal name upon first mention, but to use a generic name for succeeding references.
 
-So: the *police department*, but the *Cebu City Police Office*
+**So**: the *police department*, but the *Cebu City Police Office*
 
 **policemen**
 
@@ -1500,7 +1520,7 @@ Examples: You *should* practice harder. In the summer, she *would* row every aft
 
 Also, use *would* for a conditional past tense construction.
 
-Example: If you had not lost last Sunday, you *would* have to fight a tough opponent.
+**Example**: If you had not lost last Sunday, you *would* have to fight a tough opponent.
 
 **show off** (verb), **showoff** (noun)
 
@@ -1692,7 +1712,7 @@ VD is acceptable on second reference.
 
 Italicize vernacular terms or quotations, if these are necessary or add color to the story. Then, provide an English translation, enclosed in parentheses, after the paragraph.
 
-Example: “*Wa siya malipong?*” he said when told of the mayor’s proposal. (Is he in his right mind?)
+**Example**: “*Wa siya malipong?*” he said when told of the mayor’s proposal. (Is he in his right mind?)
 
 **vice mayor**, **vice governor**, **vice admiral**
 
