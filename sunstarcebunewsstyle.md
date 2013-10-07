@@ -292,29 +292,29 @@ A **capitol** is a building. Capitalize when referring to the Provincial Governm
 
 **Capitalization**
 
-1) Capitalize proper nouns and official titles which precede names in text.
+**1) Capitalize proper nouns and official titles which precede names in text.**
 
 In headlines, capitalize only the first letter of the first word, aside from the proper nouns.
 
-2) Use lowercase for the names of legislative committees; the Senate blue ribbon *committee*, the House *committee* on justice and human rights.
+**2) Use lowercase for the names of legislative committees: the Senate blue ribbon *committee*, the House *committee* on justice and human rights.**
 
-3) Lower case city, province and government when used as generic terms, but capitalize them when referring to a specific unit.
+**3) Lower case city, province and government when used as generic terms, but capitalize them when referring to a specific unit.**
 
 Cebu *city* residents cannot vote for officials of the *Province*, but are of course included in elections for *National Government* positions.
 
 The *government* cannot prohibit the entry of persons with HIV.
 
-4) Capitalize proper nouns referring to the divinity and religious groups or sects, except in generic references.
+**4) Capitalize proper nouns referring to the divinity and religious groups or sects, except in generic references.**
 
 **So**: God, Allah, Yahweh, Muslims, Roman Catholics
 
 **But**: a Greek god, pagan goddesses
 
-5) Use lower case when referring to everyday rites or ceremonies such as the mass, last rites, baptism.
+**5) Use lower case when referring to everyday rites or ceremonies such as the mass, last rites, baptism.**
 
 But capitalize religious holidays such as Christmas, Lent, Holy Week, Easter, Ramadan.
 
-6) The word following a colon is capitalized in headlines. In text, the word following a colon is capitalized only if it belongs to a complete sentence.
+**6) The word following a colon is capitalized in headlines. In text, the word following a colon is capitalized only if it belongs to a complete sentence.**
 
 **Right**: She had many skills: dancing, singing, painting.
 
@@ -322,15 +322,15 @@ But capitalize religious holidays such as Christmas, Lent, Holy Week, Easter, Ra
 
 **Captions or cutlines**
 
-a) Whenever possible, identify all persons in a photo.
+**a) Whenever possible, identify all persons in a photo.**
 
-b) Captions assume that the action took place yesterday and are set in the present tense unless some other specific time in the past is mentioned.
+**b) Captions assume that the action took place yesterday and are set in the present tense unless some other specific time in the past is mentioned.**
 
-c) Captions identifying more than two persons use the form from left, not from left to right.
+**c) Captions identifying more than two persons use the form from left, not from left to right.**
 
-d) When a photo is old, generally a year or more, specify when it was taken, especially if the subject's appearance is known to have changed since the photo was taken.
+**d) When a photo is old, generally a year or more, specify when it was taken, especially if the subject's appearance is known to have changed since the photo was taken.**
 
-e) Avoid the term looks on. There's no need to state the obvious. Besides, people usually watch or listen; they don't just look on.
+**e) Avoid the term looks on. There's no need to state the obvious. Besides, people usually watch or listen; they don't just look on.**
 
 **carat**, **karat**
 
@@ -392,7 +392,8 @@ Build a new *city hall*; the meeting will be held at the *City Hall*.
 
 A collective noun which should not be used with a number.
 
-**cloud computing** A type of utility computing done over the Internet. Think of it as like an electricity service -- instead of running your own generators, you connect to and pay a utility company like Veco. In cloud computing, you pay a company like Amazon to run web services instead of you running your own server.
+**cloud computing**  
+A type of utility computing done over the Internet. Think of it as like an electricity service -- instead of running your own generators, you connect to and pay a utility company like Veco. In cloud computing, you pay a company like Amazon to run web services instead of you running your own server.
 
 **cloak-and-dagger**
 
