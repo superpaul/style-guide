@@ -251,13 +251,12 @@ For editors:
 =======
 **For reporters:**
 
-Justin K. Vestil <br />
+Justin K. Vestil  
 Sun.Star Staff Reporter
 
 **For editors:** 
->>>>>>> 776321a610d205556ceb34a6353a99079cf1326d
 
-Isolde D. Amante<br />
+Isolde D. Amante  
 of Sun.Star Cebu
 
 **For photographers:**
