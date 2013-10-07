@@ -234,14 +234,12 @@ An operation where police personnel or their "civilian assets" pose as buyers of
 
 For reporters:
 
-Justin K. Vestil
-
+Justin K. Vestil<br />
 Sun.Star Staff Reporter
 
 For editors: 
 
-Isolde D. Amante
-
+Isolde D. Amante<br />
 of Sun.Star Cebu
 
 For photographers:
