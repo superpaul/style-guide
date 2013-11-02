@@ -20,12 +20,9 @@ president, vice president, secretary, treasurer, assistant secretary, assistant 
 
 **5) Do not use the abbreviations Atty., Engr. and Arch. before a person's name. If it is necessary to mention a person's profession in a story, say:**
 
-*lawyer* Amadeo Seno
-
-Mel Libre, a *lawyer*,
-
-*architect* Melva Java
-
+*lawyer* Amadeo Seno  
+Mel Libre, a *lawyer*,  
+*architect* Melva Java  
 Jose Troyo, an *engineer*,
 
 **6) Abbreviate junior or senior after a person's name.**
@@ -116,7 +113,7 @@ Jenny doesn't live here *anymore*, as there isn't *any more* space.
 
 Forms the possessives of nouns, indicates omissions or contractions.
 
-1) Omissions Use to indicate omissions in quoted speech or indicate omitted numbers: o'er the hills; he was born in the '40s.
+1) **Omissions** Use to indicate omissions in quoted speech or indicate omitted numbers: o'er the hills; he was born in the '40s.
 
 2) Possessives
 
@@ -128,7 +125,7 @@ c) Use the apostrophe alone to form the plural of nouns ending in a silent s. Ex
 
 d) Use the apostrophe for plural possessives such as Ramoses', the princesses'
 
-e) Don't use the apostrophe in possesive pronouns such as its, his, hers, theirs.
+e) Don't use the apostrophe in possessive pronouns such as its, his, hers, theirs.
 
 f) When referring to more than one person, use the apostrophe once to show common possession, but separately for individual possession.
 
@@ -159,7 +156,7 @@ To *assure* is to promise, to remove worry or uncertainty. To *ensure* is to mak
 
 **attorney**, **lawyer**
 
-Lawyer is a generic term for a person who holds a law degree. An attorney is one who acts as an agent for or in behalf of another person or group. Many lawyers, such as those who work on congressional committees, are not attorneys.
+*Lawyer* is a generic term for a person who holds a law degree. An *attorney* is one who acts as an agent for or in behalf of another person or group. Many lawyers, such as those who work on congressional committees, are not attorneys.
 
 **author** (a noun. The verb is **write**)
 
@@ -241,34 +238,20 @@ An operation where police personnel or their "civilian assets" pose as buyers of
 
 **bylines**
 
-<<<<<<< HEAD
-For reporters:
-
-Justin K. Vestil<br />
-Sun.Star Staff Reporter
-
-For editors: 
-=======
-**For reporters:**
-
+For reporters:  
 Justin K. Vestil  
 Sun.Star Staff Reporter
 
-**For editors:** 
-
+**For editors:**  
 Isolde D. Amante  
 of Sun.Star Cebu
 
-**For photographers:**
-
-(SUN.STAR FOTO/ALEX BADAYOS)
-
+**For photographers:**  
+(SUN.STAR FOTO/ALEX BADAYOS)  
 (to appear right after the caption or cutline)
 
-For end lines or taglines:
-
-JKV, MTL, IDA, MPS, LAP 
-
+For end lines or taglines:  
+JKV, MTL, IDA, MPS, LAP  
 But (AFP), (AP), (PNA), (Sunnex), (Sun.Star Baguio)
 
 
